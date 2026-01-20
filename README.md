@@ -24,7 +24,7 @@ The system was tested on a dataset of over **5.1 Million records**. Below are th
 | Nodes | Time (s) | Speedup | Efficiency (%) |
 | --- | --- | --- | --- |
 | 1 | 1.0828 | 1.00x | 100.00% |
-| 2 | 0.3996 | 2.71x | **135.50%** (Super-linear) |
+| 2 | 0.3996 | 2.71x | **135.50%** |
 | 4 | 0.3912 | 2.77x | 69.20% |
 | 8 | 0.3756 | 2.88x | 36.04% |
 | 16 | 0.3093 | 3.50x | 21.88% |
@@ -64,6 +64,6 @@ can sometimes lead to session crashes if not cached properly,
 * **UI Stability:** The initial web-based upload interface faced lag issues with very large
 datasets, which required us to use direct file path loading for better stability.
 
-## ⚱ 🖥 Created by:=
+## 🖥 Created by:=
 * **Student Name:** Dia El-Din A. Habib,
 * **Student ID:** 120210319
