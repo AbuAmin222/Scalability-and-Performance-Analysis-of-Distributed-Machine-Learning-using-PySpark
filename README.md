@@ -64,6 +64,6 @@ can sometimes lead to session crashes if not cached properly,
 * **UI Stability:** The initial web-based upload interface faced lag issues with very large
 datasets, which required us to use direct file path loading for better stability.
 
-## 🖥 Created by:=
+## 🖥 Created by:
 * **Student Name:** Dia El-Din A. Habib,
 * **Student ID:** 120210319
