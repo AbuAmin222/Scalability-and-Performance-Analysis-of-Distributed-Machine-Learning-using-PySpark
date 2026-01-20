@@ -59,7 +59,11 @@ The system was tested on a dataset of over **5.1 Million records**. Below are th
 
 ## 🎓 Conclusion
 
-**Memory Management:** In the free tier of Google Colab, processing extremely large files
+* **Memory Management:** In the free tier of Google Colab, processing extremely large files
 can sometimes lead to session crashes if not cached properly,
-**UI Stability:** The initial web-based upload interface faced lag issues with very large
+* **UI Stability:** The initial web-based upload interface faced lag issues with very large
 datasets, which required us to use direct file path loading for better stability.
+
+## ⚱ 🖥 Created by:=
+* **Student Name:** Dia El-Din A. Habib,
+* **Student ID:** 120210319
