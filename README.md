@@ -59,5 +59,7 @@ The system was tested on a dataset of over **5.1 Million records**. Below are th
 
 ## 🎓 Conclusion
 
-This project proves that effective Big Data engineering is about **Resource Management**. By optimizing memory through `cache()` and handling data schema conflicts programmatically, we achieved a robust pipeline capable of processing millions of rows in seconds.
-
+**Memory Management:** In the free tier of Google Colab, processing extremely large files
+can sometimes lead to session crashes if not cached properly,
+**UI Stability:** The initial web-based upload interface faced lag issues with very large
+datasets, which required us to use direct file path loading for better stability.
